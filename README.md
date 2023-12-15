@@ -10,7 +10,7 @@
 
 ## Setting Up Nginx Proxy Manager
 
-First, we will need to set up Nginx Proxy Manager via its `docker-compose`
+First, we will need to set up Nginx Proxy Manager via its `docker compose`
 
 I will be using baudneo fork because we will need to use that fork later anyway. Make sure that you set your database passwords to something else.
 
