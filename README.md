@@ -1,1 +1,1 @@
-# crowdsec-npm-gateway-
+# Crowdsec NPM Gateway
